@@ -1,0 +1,137 @@
+ 
+   .header {
+    width: 100%;
+    height: 150px;
+    background-color: #1E8BBF;
+    /* font-size: 23px; */
+    color: white;
+    overflow: hidden;
+    margin-bottom: 50px;
+}
+
+  
+  .header_title{
+    float: right;
+    font-size: 49px;
+    padding-right: 235px;
+    padding-top: 27px;
+    text-align: center;
+    font-weight: bold;
+    color: #29FC46;
+    overflow: hidden;
+}
+ 
+   .header_logo{
+    width: 380px;
+    height: 115px;
+    padding-top: 1%;
+    padding-left: 1%;
+}
+   .button{    
+    background-color: #fff;
+    width: 80px;
+    height: 40px;
+    border: 2px solid #462f09;
+}
+   .button:hover{    background-color: #000;
+    width: 80px;
+    height: 40px;
+    border: 2px solid #462f09;
+    color:#fff;
+    border-radius: 5px;
+}
+.main_body {
+    border: 2px solid #462f09;
+    border-radius: 18px;
+    padding: 10px;
+    width: 550px;
+    line-height: 40px;
+    background-color: #3D67B1;
+    color: white;
+    height: 250px;
+    margin: auto;
+}
+
+  
+  #test{
+font-weight: bold;
+} 
+.logo_img{
+    width: 301px;
+    height: 101px;
+} 
+.button_text{
+  font-size:15px;
+}
+.input_tex{
+    height: 20px;
+    padding-top: 6px;
+    background-color: #462f09;
+    color: white;
+    overflow: hidden;
+}
+.mccLogo{
+  width: 380px;
+  height: 115px;
+}
+.b_discount{
+  overflow: hidden;
+  font-size: 28px;
+  color: #FFD65A;
+  margin: 0px;
+  padding: 5px;
+}
+.fotter{
+  padding-top: 80px;
+  background-color: #ffd65a54;
+  margin-top: 80px;
+}
+.Athor{
+
+}
+.MyName{
+  text-align: center;
+  color: #1e8bbf;
+  font-size: 50px;
+  /* box-shadow: inset 0 0 20px 0px black; */
+  font-weight: bold;
+  overflow: hidden;
+  margin: 0px;
+}
+.CopyText{
+  text-align: center;
+  color: #1e8bbf;
+  font-size: 21px;
+  padding-bottom:20px
+}
+.link{
+  padding-left: 34%;
+  overflow: hidden;
+}
+.link ul{
+
+}
+.link ul li{
+
+}
+.link ul li a{
+
+}
+.link ul li a img{
+  width: 50px;
+  padding: 6px;
+}
+.next{
+  text-align: right;
+  padding-right: 40px;
+}
+.next a{
+
+}
+.back{
+  text-align: left;
+  padding-left: 40px;
+}
+.back a{
+  padding: 15px;
+}

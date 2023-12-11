@@ -1,0 +1,170 @@
+body{
+    color:#FFD65A
+}
+.header{
+    height: 150px;
+    background-color: #1E8BBF;
+    margin: auto;
+    overflow: hidden;
+}
+.header h2{
+    float: right;
+    font-size: 49px;
+    padding-right: 235px;
+    padding-top: 27px;
+    text-align: center;
+    font-weight: bold;
+    color: #29FC46;
+    overflow: hidden;
+}
+.header strong{
+    color:black;
+    padding-top:-15px;
+    text-align: center;
+    font-size:25px;
+    font-weight: bold;
+}
+.student_data{
+    height: 400px;
+    background-color: #1E8BBF;
+    margin-top: 11px;
+    overflow: hidden;
+}
+.float_left{
+    float: left;
+    padding-left:10px
+}
+.float_right{
+    float: right;
+    overflow: hidden;
+    padding-right: 80px;
+}
+.student_img img{
+    height: 270px;
+    width: 262px;
+    padding-right: 100px;
+    overflow: hidden;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.rool{
+    text-align: center;
+    font-size: bold;
+    font-size: 18px;
+
+}
+.name{
+    overflow: hidden;
+    font-size: 40px;
+    box-shadow: 0px 0 11px 5px black;
+    color: #ffd65a;
+    background-color: #29fc4636;
+    padding: 5px;
+    font-weight: bold;
+    box-shadow: 0 0 20px 0px black;
+}
+.s_text{
+    font-size:20px;
+    line-height: 10px;
+}
+.details_img img{
+    overflow: hidden;
+    width:8.27in;
+    height:11.69in;
+    padding-left:20%
+}
+.nameS{
+    color: #29FC46;
+    font-size: 43px;
+}
+.nameS:hover{
+    color:#FFD65A
+}
+.course_name{
+    text-align:center
+}
+.mccLogo{
+    width: 380px;
+    height: 115px;
+    overflow: hidden;
+}
+.AllData{
+    overflow: hidden;
+    font-size: 28px;
+    color: #FFD65A;
+    margin: 0px;
+    padding: 5px;
+}
+.header_title {
+    float: right;
+    font-size: 49px;
+    padding-right: 235px;
+    padding-top: 27px;
+    text-align: center;
+    font-weight: bold;
+    color: #29FC46;
+    overflow: hidden;
+}
+.b_discount {
+    overflow: hidden;
+    font-size: 28px;
+    color: #FFD65A;
+    margin: 0px;
+    padding: 5px;
+}
+.mccLogo {
+    width: 380px;
+    height: 115px;
+}
+.header_logo {
+    width: 380px;
+    height: 115px;
+    padding-top: 1%;
+    padding-left: 1%;
+}
+.fotter{
+    padding-top: 80px;
+    background-color: #ffd65a54;
+}
+.Athor{
+
+}
+.MyName{
+    text-align: center;
+    color: #1e8bbf;
+    font-size: 50px;
+    /* box-shadow: inset 0 0 20px 0px black; */
+    font-weight: bold;
+    overflow: hidden;
+    margin: 0px;
+}
+.CopyText{
+    text-align: center;
+    color: #1e8bbf;
+    font-size: 21px;
+    padding-bottom:20px
+}
+.link{
+    padding-left: 34%;
+    overflow: hidden;
+}
+.link ul{
+
+}
+.link ul li{
+
+}
+.link ul li a{
+
+}
+.link ul li a img{
+    width: 50px;
+    padding: 6px;
+}
+.next{
+    text-align: right;
+    padding-right: 40px;
+}
+.next a{
+
+}

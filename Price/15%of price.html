@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="মাস্টারিং কম্পিউটার কোর্স
+  ">
+  <meta name="author" content="Rasel Hossain Adib. Mobail Number : 						01934544352,01626757897 . Email : 							adibrasel.com@gmail.com,adibrasel.2018@gmail.com,info@adibrasel.com . Website = www.adibrasel.com">
+  <title>মাস্টারিং কম্পিউটার কোর্স</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="header">
+     <div class="header_title">
+        মাস্টারিং কম্পিউটার কোর্স
+        <p class="b_discount">বিশেষ ১৫% ছাড়</p>
+     </div>
+     <div class="header_logo">
+       <a href="" target="_blank">
+      <img class="mccLogo" src="image/mccLOGO.png" alt="">
+      </a>
+     </div>
+  </div>
+  
+  <div class="main_body">
+  	<span>মোট টাকা : <input type="text" id="myText" value="" class="input_tex">
+
+    
+    <button onclick="myFunction()" class="button"><b class="button_text">Show</b></button>
+    <br>
+    <span>ছাড় = </span>
+    <span id="demo"></span><br>
+  <hr>
+ 	<span>১৫% ছাড়ে মোট টাকা: = </span> 
+    <span id="Rasel_Hossain_Adib"></span>
+  </div>
+  
+  
+  
+
+
+<script>
+function myFunction() {
+  var Mot_Taka = document.getElementById("myText"). value;
+  var tow_gun_taka = Mot_Taka * 15 ;
+  var discount = tow_gun_taka / 100;
+  var T_discount = Mot_Taka - discount;
+
+
+
+
+  // var tow_gun_taka = Mot_Taka - 10;
+  // var rasel =  tow_gun_taka + 10 + Lav;
+  document.getElementById("demo").innerHTML = discount ;
+  document.getElementById("Rasel_Hossain_Adib").innerHTML = T_discount;
+}
+</script>
+
+
+
+
+
+<!---------------------start fotter---------------->
+<section>
+<div class="fotter">
+  <div class="back">
+    <button>
+      <a href="file:///D:/Student%20List/index.html">Home</a>
+    </button>
+    <button>
+      <a href="12%of price.html">Back</a>
+    </button>
+  </div>
+  
+    <div class="next">
+      <button>
+        <a href="file:///D:/Student%20List/index.html">Home</a>
+      </button>
+    </div>
+    <div class="Athor">
+        <p class="MyName">Rasel Hossain Adib</p>
+        <div class="link">
+            <ul>
+                <li>
+                    <a href=""><img src="image/fb.png" alt=""></a>
+                    <a href=""><img src="image/yt.png" alt=""></a>
+                    <a href=""><img src="image/tw.png" alt=""></a>
+                    <a href=""><img src="image/pt.png" alt=""></a>
+                    <a href=""><img src="image/in.png" alt=""></a>
+                </li>
+            </ul>
+        </div>
+        <hr>
+        <p class="CopyText">© 2020 <a href="20%of price.html">Rasel</a> Hossain Adib</p>
+    </div>
+</div>
+</section>
+<!-----------------------------End fotter------------------->
+
+</body>
+</html>
